@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yashagrahari07/Problem-Solving/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Yashagrahari07/Problem-Solving/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Yashagrahari07/Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
